@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-w270dp-h560dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\bundles\\debug\\res\\layout-w270dp-h560dp-v13\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-w270dp-h560dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\bundles\\debug\\res\\layout-w270dp-h560dp-v13\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-w270dp-h560dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\bundles\\debug\\res\\layout-w270dp-h560dp-v13\\mdtp_date_picker_dialog.xml"
+    }
+]

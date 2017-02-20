@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "D:\\BingEdu\\maptrackerLib\\library\\src\\main\\res\\layout-sw600dp\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\src\\main\\res\\layout-sw600dp\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "D:\\BingEdu\\maptracker\\library\\src\\main\\res\\layout-sw600dp\\mdtp_date_picker_dialog.xml"
+    }
+]

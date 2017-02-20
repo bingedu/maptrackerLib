@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land\\mdtp_done_background_color.xml",
+        "source": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-land\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land\\mdtp_done_background_color.xml",
+        "source": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-land\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
+        "source": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land\\mdtp_done_background_color.xml",
+        "source": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-land\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
+        "source": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
+        "source": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    }
+]

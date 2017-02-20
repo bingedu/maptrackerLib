@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\res\\merged\\release\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\BingEdu\\maptrackerLib\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\res\\merged\\release\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\BingEdu\\maptracker\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\res\\merged\\release\\layout-v16\\notification_template_custom_big.xml",
+        "source": "G:\\android\\edu\\swifty-priv-maptracker-fcbc1240728e\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\BingEdu\maptrackerLib\library\src\main\assets"><file name="fonts/Roboto-Medium.ttf" path="D:\BingEdu\maptrackerLib\library\src\main\assets\fonts\Roboto-Medium.ttf"/></source><source path="D:\BingEdu\maptrackerLib\library\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\BingEdu\maptrackerLib\library\src\release\assets"/></dataSet></merger>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mapTracker</string>
+    <string name="arrive_time">预计到达时间</string>
+    <string name="meter">米</string>
+    <string name="touch_map_select_location">点击屏幕选择地点</string>
+    <string name="confirm">确定</string>
+    <string name="wrong_input">输入有误</string>
+    <string name="has_arrived">已经到达</string>
+    <string name="need_permission">需要权限</string>
+    <string name="cancel">取消</string>
+    <string name="setting">设置</string>
+    <string name="time_up">时间到了!</string>
+    <string name="has_been_set">成功设置！</string>
+</resources>
